@@ -1,11 +1,10 @@
 #include<iostream>
-#include<string>
 #include<vector>
-#include<unordered_map>
-#include<algorithm>
-#include<map>
-#include<queue>
 
+/*
+能保存、输出每条可行路径
+问题是运行慢，数据大了不好用，步数k较小时可用
+*/
 
 using namespace std;
 
